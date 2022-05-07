@@ -1,0 +1,52 @@
+.travel_mainDiv
+{ 
+    border: 2px solid rgb(139, 62, 183);
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+margin: 25px;
+}
+.travel_mainDiv img
+{
+    width: 75%
+}
+.activity_text img
+{
+    width: 200%
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+float: right;    
+}
+.activity_text span
+{
+    color: orange;
+}
+.new
+{
+    margin-bottom: 20px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
